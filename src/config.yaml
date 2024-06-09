@@ -1,0 +1,5 @@
+input_path: "../input/b.jpg"
+output_path: "../output"
+white_template_path: "../assets/white.png"
+black_template_path: "../assets/black.png"
+model_path: "../model/deeplab_v3.tflite"
